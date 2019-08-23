@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-amt1001-aht11-temperature-and-humidity-sensors-analog-voltage-output",
+  "title": "amt1001-aht11-temperature-and-humidity-sensors-analog-voltage-output",
+  "keywords": "amt1001-aht11-temperature-and-humidity-sensors-analog-voltage-output, esp32, esp8266, arduino",
+  "description": "amt1001-aht11-temperature-and-humidity-sensors-analog-voltage-output plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-amt1001-aht11-temperature-and-humidity-sensors-analog-voltage-output/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-amt1001-aht11-temperature-and-humidity-sensors-analog-voltage-output/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
